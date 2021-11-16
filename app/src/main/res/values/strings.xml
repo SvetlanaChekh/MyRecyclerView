@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">RecylcerViewApplication</string>
+    <string name="app_name">ЦДО</string>
+    <string name="CDL">Центр дистанционного обучения</string>
+    <string name="button_about">Сайт</string>
 </resources>
